@@ -1,0 +1,14 @@
+*.dres
+__history
+*.res
+*.local
+*.identcache
+*.skincfg
+*.dsk
+*.~dsk
+*.tvsconfig
+/Output
+__recovery
+/Win32
+/Win64
+/send
